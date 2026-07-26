@@ -3,7 +3,7 @@
 A clean full-stack starter running on
 [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
 Drizzle support.
-
+Web：https://nihongo-together.suntodp.chatgpt.site
 ## Prerequisites
 
 - Node.js `>=22.13.0`
